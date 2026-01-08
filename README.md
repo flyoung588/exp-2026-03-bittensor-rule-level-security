@@ -1,3 +1,5 @@
+Exploring the first-principles of AI + Crypto incentives: a 10-day public experiment dissecting Bittensor’s rule-level rewards, strategic behaviors, and systemic vulnerabilities.
+
 Project Full Title
 
 exp-2026-03 · Rule-Level Security and Incentive Game Analysis of the Bittensor Protocol
